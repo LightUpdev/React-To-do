@@ -24,7 +24,7 @@ function App() {
       return;
     }
 
-    if (todoList.length === 3) {
+    if (todoList.length === 10) {
       toast("you can't add more items to your list");
       setTodoList([...todoList]);
       return;
