@@ -1,0 +1,13 @@
+.todo-input{
+  justify-content: center;
+}
+.list{
+  border: 1px solid hsl(91, 100%, 50%);
+  border-radius: 10px;
+  width: 50%;
+  color: white;
+  background-color:hsl(0, 0%, 100%);
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+}
